@@ -1,0 +1,11 @@
+C:\Users\knolb\Documents\mahoofdmap\bewijzenmap\periode1.1\pro2\B1L4One List to list'em all\bin\Debug\netcoreapp2.2\B1L4One List to list'em all.deps.json
+C:\Users\knolb\Documents\mahoofdmap\bewijzenmap\periode1.1\pro2\B1L4One List to list'em all\bin\Debug\netcoreapp2.2\B1L4One List to list'em all.runtimeconfig.json
+C:\Users\knolb\Documents\mahoofdmap\bewijzenmap\periode1.1\pro2\B1L4One List to list'em all\bin\Debug\netcoreapp2.2\B1L4One List to list'em all.runtimeconfig.dev.json
+C:\Users\knolb\Documents\mahoofdmap\bewijzenmap\periode1.1\pro2\B1L4One List to list'em all\bin\Debug\netcoreapp2.2\B1L4One List to list'em all.dll
+C:\Users\knolb\Documents\mahoofdmap\bewijzenmap\periode1.1\pro2\B1L4One List to list'em all\bin\Debug\netcoreapp2.2\B1L4One List to list'em all.pdb
+C:\Users\knolb\Documents\mahoofdmap\bewijzenmap\periode1.1\pro2\B1L4One List to list'em all\obj\Debug\netcoreapp2.2\B1L4One List to list'em all.csprojAssemblyReference.cache
+C:\Users\knolb\Documents\mahoofdmap\bewijzenmap\periode1.1\pro2\B1L4One List to list'em all\obj\Debug\netcoreapp2.2\B1L4One List to list'em all.csproj.CoreCompileInputs.cache
+C:\Users\knolb\Documents\mahoofdmap\bewijzenmap\periode1.1\pro2\B1L4One List to list'em all\obj\Debug\netcoreapp2.2\B1L4One List to list'em all.AssemblyInfoInputs.cache
+C:\Users\knolb\Documents\mahoofdmap\bewijzenmap\periode1.1\pro2\B1L4One List to list'em all\obj\Debug\netcoreapp2.2\B1L4One List to list'em all.AssemblyInfo.cs
+C:\Users\knolb\Documents\mahoofdmap\bewijzenmap\periode1.1\pro2\B1L4One List to list'em all\obj\Debug\netcoreapp2.2\B1L4One List to list'em all.dll
+C:\Users\knolb\Documents\mahoofdmap\bewijzenmap\periode1.1\pro2\B1L4One List to list'em all\obj\Debug\netcoreapp2.2\B1L4One List to list'em all.pdb
